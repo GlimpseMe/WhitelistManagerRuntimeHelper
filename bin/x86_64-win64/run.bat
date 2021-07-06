@@ -1,0 +1,1 @@
+.\runhelper.exe --executable="C:\lazarus\MyProjects\GlimpseManager\bin\x86_64-win64\gmanager.exe" -i "0.0.0.0" -p 2400 --logdir="C:\lazarus\MyProjects\GlimpseManager\bin\x86_64-win64\data"
